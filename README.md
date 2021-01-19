@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 **RocketsF1/RocketsF1** is a ✨ _special_ ✨ 
-✨ _A área de desenvolvimento é muito ampla, então antes de começar a pesquisar como ser um desenvolvedor,
-é bom ter um planejamento estrategico em mente sobre a desenvolvimento das tecnologias do dia a dia. E se atentar para suas metas pois elas podem variar e mudar o rumo da sua carreira,
-E tenha certeza de que você entende o que está fazendo e porque está fazendo.#ProgramadorWeb_ ✨ 
 
 💻 Tecnologias e ferramentas
 - 🚀 - Html5  ⚡ ...
@@ -13,6 +10,9 @@ E tenha certeza de que você entende o que está fazendo e porque está fazendo.
 - 🚀 - NodeJS ⚡ ...
 - 🚀 - SQL    ⚡ ...
 - 🚀 - MySQL  ⚡ ...
+
+
+🉐 -  https://www.youtube.com/channel/UC92mxITeA4hu7ykColTsT5Q
 
 - 🤔  ...
 - 💬  ...
